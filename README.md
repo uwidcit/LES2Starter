@@ -1,6 +1,8 @@
 # Flask Starter Template fo REPLit
 A template for simple flask projects. For production projects with testing and deployment it is recommended to use [flaskmvc](https://gitpod.io/#https://github.com/uwidcit/flaskmvc).
 
+[![Run on Repl.it](https://repl.it/badge/github/unknownblueguy6/MineSweeper)](https://repl.it/github/Snickdx/LES2Starter)
+
 # Installing Dependencies
 ```
 $ poetry install
